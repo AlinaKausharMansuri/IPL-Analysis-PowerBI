@@ -9,7 +9,7 @@ The dashboard provides an interactive way to understand IPL performance through 
 ## 📊 Dashboard Preview
 
 
-![IPL Analysis Dashboard](ipl-dashboard-overview.png)
+![IPL Analysis Dashboard](./ipl-dashboard-overview.png)
 
 
 
