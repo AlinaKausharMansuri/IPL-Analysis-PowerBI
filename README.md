@@ -8,11 +8,10 @@ The dashboard provides an interactive way to understand IPL performance through 
 
 ## 📊 Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
 
 ![IPL Analysis Dashboard](ipl-dashboard-overview.png)
 
----
+
 
 ## 🎯 Project Objective
 
